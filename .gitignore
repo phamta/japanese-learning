@@ -20,7 +20,8 @@ instance/
 # IDE
 .vscode/
 .idea/
-Frontend
+
+# Frontend
 node_modules/
 frontend/.next/
 frontend/dist/
