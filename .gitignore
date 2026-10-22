@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+Virtual environments
+backend/.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Flask / local database
+instance/
+*.db
+
+# IDE
+.vscode/
+.idea/
+Frontend
+node_modules/
+frontend/.next/
+frontend/dist/
